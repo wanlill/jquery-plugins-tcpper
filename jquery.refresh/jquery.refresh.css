@@ -1,0 +1,19 @@
+/* =================================================
+// jQuery refresh plugin
+// author : tcpper@gmail.com
+// Url: http://tcpper.duapp.com
+// Data : 2012-06-08
+// =================================================*/
+
+.refresh-link {
+}
+
+.refresh-checkbox {
+	margin: 0px 0px 0px 5px;
+}
+
+.refresh-input {
+	margin: 0px 0px 0px 5px;	
+	width: 20px;
+	height: 10px;
+}
