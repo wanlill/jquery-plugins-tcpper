@@ -1,0 +1,35 @@
+/*------------------------------tab widget-------------------------------*/
+.box {
+	background:#fff;
+}
+.tab_menu {
+	margin: 0px 0px -1px 0px;
+	padding: 0px 0px 0px 0px;
+	list-style:none;
+	width:400px;
+	overflow:hidden;
+}
+.tab_menu li {
+	width:60px;
+	float:left;
+	height:20px;
+	line-height:20px;
+	border: 1px solid black;
+	color:black;
+	background:#fff;
+	text-align:center;
+	cursor:pointer;
+}
+.tab_menu li.current {
+	color:white;
+	background-color: #F4551B;
+}
+.tab_box {
+	overflow-y: scroll;
+	border:1px solid #d3d3d3;
+	padding:8px;
+	height:350px;
+}
+.tab_box .hide {
+	display:none;
+}
